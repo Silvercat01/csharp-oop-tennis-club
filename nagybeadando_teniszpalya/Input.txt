@@ -1,0 +1,11 @@
+﻿János Igazolt
+Erika Diak
+Béla Nyugdijas
+
+1 Salak 1
+2 Fuves 0
+3 Muanyag 1
+
+János 1 2023-11-15 10 Foglalt
+Erika 2 2023-11-15 11 Teljesitett
+Béla 3 2023-11-16 14 Visszamondott
