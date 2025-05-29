@@ -1,4 +1,4 @@
-# csharp-oop-tennis-club
+# oop-tennis-club
 C# tennis club manager using strategy pattern
 
 ## English Summary  
